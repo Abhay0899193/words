@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "495212541534",
+    "firebase_url": "https://words-79808.firebaseio.com",
+    "project_id": "words-79808",
+    "storage_bucket": "words-79808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495212541534:android:21e78f791cf071c1",
+        "android_client_info": {
+          "package_name": "com.Ashgen.words"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495212541534-i44uiu2ljkvfigtn0jimve87d67nivhc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "495212541534-i44uiu2ljkvfigtn0jimve87d67nivhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeF2WQ436Le9NssIACJTaQAUa_0ujYibk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
